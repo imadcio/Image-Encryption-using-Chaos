@@ -14,14 +14,6 @@
 * Click on Decryption using Henon map.
 * Full image file path appears in the text box next to the buttons.
 
-### Image Encryption UI
-![Image Encryption UI](EncryptionUI.png)
-<br />
-<br />
 
-### Image Decryption UI
-![Image Decryption UI](DecryptionUI.png)
-<br />
-<br />
 
 
