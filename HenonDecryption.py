@@ -9,7 +9,7 @@ from PIL import Image
 import os
 
 def decryptHenonImage(imageName):
-    imageMatrix = ghm.getImageMatrix(imageNae)
+    imageMatrix = ghm.getImageMatrix(imageName)
     transformationMatrix = ghm.genTransformationMatrix(len(imageMatrix))
 
     henonDecryptedImage = []
